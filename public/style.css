@@ -2,3 +2,13 @@ h1 {
     font-weight: lighter;
     font-style: italic;
   }
+
+  .dark{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+  }
+
+  a{
+    color: gray;
+    text-decoration: none;
+  }
